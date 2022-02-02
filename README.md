@@ -1,1 +1,1 @@
-# odin-recipes
+This project will include recipes that the course may have me add. I will be able to demonstrate multiple skills after completing the project, such as; understanding the basicsof HTML, the basic workflow of GIT, doctypes, boilerplates & more.
